@@ -1,0 +1,1 @@
+{"cluster": "pod:aidc-t13", "namespace": "thamer", "pod": "serving", "image": "thameralotaibi/aidc-serving:cpu-v1", "node": "aidc-t13", "chat_status": 200}
