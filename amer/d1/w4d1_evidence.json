@@ -1,0 +1,1 @@
+{"cluster": "pod:aidc-t13", "namespace": "amer", "pod": "serving", "image": "amerms/aidc-serving:cpu-v1", "node": "aidc-t13", "chat_status": 200}
