@@ -1,0 +1,1 @@
+{"cluster": "pod:aidc-t13", "namespace": "mohanad", "pod": "serving", "image": "muhnnad/aidc-serving:cpu-v1", "node": "aidc-t13", "chat_status": 200}
