@@ -1,0 +1,7 @@
+Card C Record Details
+
+Settings: maxUnavailable: 1, maxSurge: 0
+
+Measured bad= count: 0 (with 880 successful requests)
+
+Owner sign-off sentence: "Signed off: zero dropped requests achieved even while dropping to 50% capacity under zero-headroom constraints, enabled by the preStop hook preventing endpoint race conditions."
