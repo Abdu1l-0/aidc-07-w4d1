@@ -14,4 +14,4 @@
     -d '{"model":"Qwen/Qwen2.5-1.5B-Instruct-AWQ","messages":[{"role":"user","content":"hello from outside"}]}'
 - **SLOs we publish:** availability 95% over the window · TTFT p95 < 350 ms (tier 1) · error rate < 5%
 - **limits, declared honestly:** no server-enforced max_tokens clamp — bounded only by `--max-model-len 4096` (total context + output combined) · concurrency knee ~16 (from week 3's bench, sweep-bounded, real ceiling untested past 16) · single GPU shared across the whole cohort, no isolation between callers
-- **on-call:** Mohanad · Discord DM · response within 15 minutes during the window
+- **on-call:** Amer · Discord DM · response within 15 minutes during the window
